@@ -1,6 +1,7 @@
-# torch7 implementation of the Ladder Network as explained [in](http://arxiv.org/pdf/1504.08215.pdf) # 
+# Ladder Network
+## torch7 implementation of the Ladder Network as explained [in](http://arxiv.org/pdf/1504.08215.pdf)
 
-Require following torch packages
+### Require following torch packages
  * nn
  * nngraph
  * optim
